@@ -1,0 +1,76 @@
+body{
+  background-color: #E4F9F5;
+
+}
+h1{
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+.top-cloud{
+  position:absolute;
+  top:25px;
+  right:500px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:500px;
+}
+.academictable{
+
+}
+.carrerobj{
+  text-align: left;
+  width:800px;
+}
+.right-box{
+  background-color:gold;
+  height:1000px;
+  width: 400px;
+  position:absolute;
+  right:0px;
+}
+.contactstyle{
+list-style: none;
+}
+.contactdetailstyle{
+font-weight: bold;
+}
+.contactdetailstyle1{
+list-style: disc;
+padding-left:5px;
+}
+.toolstyle{
+list-style-type: disc;
+}
+
+.progknown{
+list-style-type: square;
+}
+.project1{
+width:800px;
+}
+.project2{
+width:800px;
+}
+.perdet{
+font-weight: bold;
+}
+.imgpicprofile{
+  position:absolute;
+  right: 5px;
+}
+.mainlook{
+  height:160px;
+}
+.mainname{
+  position: absolute;
+  top:65px;
+  left:550px;
+}
+.qual{
+  position: absolute;
+  left:5px;
+  top:140px;
+  background-color: gold;
+  color:white;
+}
